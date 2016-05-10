@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+  font-family:sans-serif;
+}
+
+.home_color {
+  color: red;
+}
+
+
+ul {
+  color: blue;
+
+}
+
+img {
+  width: 128px;
+}
